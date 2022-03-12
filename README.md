@@ -1,3 +1,7 @@
+# What is this?
+
+Repro for https://github.com/react-navigation/react-navigation/issues/10425
+
 # Getting started
 
 1. Git clone.
